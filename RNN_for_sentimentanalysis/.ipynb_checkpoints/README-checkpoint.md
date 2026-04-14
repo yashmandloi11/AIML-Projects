@@ -12,6 +12,3 @@ This project uses a Recurrent Neural Network (RNN) to classify text as positive 
 - Python
 - TensorFlow / PyTorch
 - NumPy, Pandas
-
-## Data Set
-- IMDB Dataset
